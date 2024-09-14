@@ -32,14 +32,13 @@ The dashboard produced from this analysis includes the following key features:
 - **Sub-Product Categories by Customer**: Detailed insights into customer purchases within specific product sub-categories.
 
 ## Dashboard
-![Dashboard](./dashboard.PNG)
+[![Dashboard.png](https://i.postimg.cc/5Ng8WF5P/Dashboard.png)](https://postimg.cc/rKdDSsPW)
 
 ## Data Source
 The data used for this analysis was gotten from the company directly, name of company withheld for security reasons.
 
 ## View Dataset
-You can view the full dataset used for this analysis in this [Google Sheet]([https://docs.google.com/spreadsheets/d/your-sheet-link](https://docs.google.com/spreadsheets/d/1tB9mM2GO8r0XFbmgbTRiqwXfoKvrjV3h/edit?usp=sharing&ouid=110151853877944888491&rtpof=true&sd=true)).
-
+You can view the full dataset used for this analysis in this [Google Sheet](https://docs.google.com/spreadsheets/d/1tB9mM2GO8r0XFbmgbTRiqwXfoKvrjV3h/edit?usp=sharing&ouid=110151853877944888491&rtpof=true&sd=true)
 ## Tools 
 - Microsoft Excel
 - Pivot Table
